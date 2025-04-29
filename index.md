@@ -18,7 +18,8 @@ Dirección: CL 31 13 31, Palmira, Valle del Cauca, Colombia
 
 ---
 
-## 3. Finalidad y base jurídica  
+## 3. Finalidad y base jurídica
+
 | Finalidad | Base jurídica |
 |-----------|---------------|
 | Prestación del servicio de mensajería y funcionalidades del chatbot para explorar **hábitos de consumo de información y comportamiento digital** | Ejecución de un contrato (Art. 6 (1)(b) GDPR) / Ley 1581 de 2012 (Colombia) |
